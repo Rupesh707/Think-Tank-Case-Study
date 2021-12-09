@@ -1,3 +1,6 @@
+# @Author Rupesh
+
+
 ## Think-Tank-Case-Study
 
 ### The case study revolves around 4 data sets consisting of:
@@ -10,7 +13,7 @@
 #### 3.) *Departments (Department_id, Department)*
 #### 4.) *Products (Product_id, department_id, product_name)*
 
-#### -- **Below is a visual representation of the work flow on how the data sets are joined using primary key in Dataiku to fasten the preprocess stage in-order to increase efficiency*
+#### -- **Below is a visual representation of the work flow on how the data sets are joined using primary key in Dataiku to fasten the preprocess stage in-order to increase efficiency**
 
 <p align="center">
   <img src="assets/Dataflow.JPG">
