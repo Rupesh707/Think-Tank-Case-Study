@@ -12,4 +12,6 @@
 
 #### -- **Below is a visual representation of the work flow on how the data sets are joined using primary key in Dataiku to fasten the preprocess stage in-order to increase efficiency*
 
-![](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/assets/Dataflow.JPG "Kat-Max")
+<p align="center">
+  <img src="assets/Dataflow.JPG">
+</p>
