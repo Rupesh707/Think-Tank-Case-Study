@@ -10,7 +10,7 @@
 #### 2.) *Order_Products (Order_id, product_id, add_to_cart_order)*
 
 
-#### **SEGEMNT & ITEAMS :**
+#### **SEGMENT & ITEAMS :**
 #### 3.) *Departments (Department_id, Department)*
 #### 4.) *Products (Product_id, department_id, product_name)*
 
@@ -18,4 +18,12 @@
 
 <p align="center">
   <img src="assets/Dataflow.JPG">
+</p>
+
+## **OUR STORY**:
+
+## Kat-Max e-grocery is a renown up-and-coming new generation lifestyle brand. We have our brand presence in 10 counties and are always looking for new ways to improve and anticipate our customer needs. Covid-19 has definitely impacted the way our customers shop in our store, therefore the following are the questions we are trying to seek answers through this study in chronological order, to get deeper insights.
+
+<p align="center">
+  <img src="assets/Kat-max.JPG">
 </p>
