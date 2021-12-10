@@ -4,7 +4,7 @@
 
 ## Task 1
 
-1.) Describe the datasets and the eventual anomalies you find.
+##### 1.) Describe the datasets and the eventual anomalies you find.
 2.) Which patterns do you find in the purchasing behavior of the customers?
 3.) What are the categories and products the customers are most interested in?
 4.) Split customers into different groups based on their purchasing behavior.
