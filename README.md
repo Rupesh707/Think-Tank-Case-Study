@@ -27,3 +27,27 @@
 <p align="center">
   <img src="assets/Kat-max.JPG">
 </p>
+
+
+
+## Task 1 (Is carried out it Kat_Max_Analysis Notboook)
+
+### 1.) Describe the datasets and the eventual anomalies you find.
+### 2.) Which patterns do you find in the purchasing behavior of the customers?
+### 3.) What are the categories and products the customers are most interested in?
+### 4.) Split customers into different groups based on their purchasing behavior.
+### 5.) Justify your choice for your adopted method(s) and model(s).
+### 6.) Describe the defined customer groups. What are the features which are driving the differentiation amongst the different groups?
+### 7.) Optional: Give suggestions on how the business should treat these clusters differently.
+### 8.) At this point in your analysis, you are the dataset expert. Implement in your notebook any further ideas (initiatives, further analyses) you might have in mind which can be helpful for the business.
+
+
+## RESULTS
+
+
+
+
+
+
+
+
