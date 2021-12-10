@@ -23,15 +23,15 @@
 ##### **RECOMMENDATION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)**
 
 
-### DATA UNDERSTAND & PREPROCESSING
+### - DATA UNDERSTAND & PREPROCESSING
 
 #### The case study revolves around 4 data sets consisting of:
-#### **- ORDERS :**
-##### 1.) *Orders (Order_id, user_id, order_number, order_dow, order_hour_of_day, days_since_prior_order)*
-##### 2.) *Order_Products (Order_id, product_id, add_to_cart_order)*
+#### **ORDERS :**
+##### 1.) Orders (Order_id, user_id, order_number, order_dow, order_hour_of_day, days_since_prior_order)
+##### 2.) Order_Products (Order_id, product_id, add_to_cart_order)
 
 
-#### **- SEGMENT & ITEAMS :**
+#### **SEGMENT & ITEAMS :**
 ##### 3.) Departments (Department_id, Department)
 ##### 4.) Products (Product_id, department_id, product_name)
 
