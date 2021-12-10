@@ -89,5 +89,7 @@ The problem at hand: Due to the global pandemic, our supply chain experiences dr
 By following the steps in a chronological way, we would eventually start to understand trend and find patterns from the power of big data. Therefore, as a Lead Data Scientist encourage my team to train and test different models by using state of the art time series forecasting model:
 
 * Autoregressive Moving Average (ARMA)
-* Seasonal Autoregressive Integrated Moving-Average (SARIMA) to leverage meaningful insights from big data before I could share the finding with the board, as that data driven decisions can be made.
+* Seasonal Autoregressive Integrated Moving-Average (SARIMA) and other qualifying models based on performance score must be tested before leverage meaningful insights from big data.
+
+The end goal would be to share the interesting discovery to the board, so that data driven decisions can be in a timely fashion
 
