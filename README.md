@@ -23,7 +23,7 @@
 ##### * RECOMMENDATION
 
 
-### **DATA UNDERSTAND & PREPROCESSING**
+### **1.) DATA UNDERSTAND & PREPROCESSING**
 
 #### The case study revolves around 4 data sets consisting of:
 #### **ORDERS :**
