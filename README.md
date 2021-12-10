@@ -53,6 +53,7 @@ You are a Lead Data Scientist in the team and this task requires you to come up 
 
 The problem at hand: Due to the global pandemic, our supply chain experiences drastic shortages of various components and parts for the assembly line. For example, we need 50 parts of category A, 242 parts of category B, and 72 parts of category C to produce our target product. But only between 15 and 25 parts of each category can be delivered in time. Now, we cannot finish our production and we are losing money with each day delay. Your idea should evolve around the usage of big data and data science within the supply chain.You have access to all the global supply chain data of BMW you can think of. Be creative but also realistic.
 
+## RESULTS
 
 
 
