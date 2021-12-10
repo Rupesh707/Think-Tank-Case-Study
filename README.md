@@ -16,14 +16,14 @@
 
 ### OUR PLAN
 
-##### **DATA UNDERSTAND & PREPROCESSING** 
+##### **DATA PREPROCESSING** 
 ##### **EXPLANATORY ANALYSIS [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat_Max_Analysis.ipynb)**
 ##### **MODEL SELECTION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat_Max_Analysis.ipynb)**
 ##### **VISUALIZATION & SHARING KEY FINDINGS [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)**
 ##### **RECOMMENDATION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)**
 
 
-### - DATA UNDERSTAND & PREPROCESSING
+### - DATA PREPROCESSING
 
 #### The case study revolves around 4 data sets consisting of:
 #### **ORDERS :**
