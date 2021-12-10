@@ -23,7 +23,7 @@
 ##### * RECOMMENDATION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)
 
 
-### **1.) DATA UNDERSTAND & PREPROCESSING**
+### **-- DATA UNDERSTAND & PREPROCESSING**
 
 #### The case study revolves around 4 data sets consisting of:
 #### **- ORDERS :**
