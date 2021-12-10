@@ -86,7 +86,7 @@ The problem at hand: Due to the global pandemic, our supply chain experiences dr
 
 ### RESULTS
 
-By following the above steps in a chronological way we would eventually start to understand trend and find patterns from the power of big data. Therefore, as a Lead Data Scientist I would encourage my team to train and test different models by using state of the art time series forecasting model:
+By following the above steps in a chronological way we would eventually start to understand trends and find patterns from the power of big data. Therefore, as a Lead Data Scientist I would encourage my team to train and test different models by using state of the art time series forecasting model:
 
 * Autoregressive Moving Average (ARMA)
 * Seasonal Autoregressive Integrated Moving-Average (SARIMA) and other qualifying models based on performance score to be tested by leveraging meaningful insights from big data.
