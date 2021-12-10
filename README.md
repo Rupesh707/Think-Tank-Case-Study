@@ -23,7 +23,7 @@
 ##### * RECOMMENDATION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)
 
 
-### **-- DATA UNDERSTAND & PREPROCESSING**
+### *DATA UNDERSTAND & PREPROCESSING
 
 #### The case study revolves around 4 data sets consisting of:
 #### **- ORDERS :**
@@ -32,8 +32,8 @@
 
 
 #### **- SEGMENT & ITEAMS :**
-##### 3.) *Departments (Department_id, Department)*
-##### 4.) *Products (Product_id, department_id, product_name)*
+##### 3.) Departments (Department_id, Department)
+##### 4.) Products (Product_id, department_id, product_name)
 
 ##### -- **Below is a visual representation of the work flow on how the data sets are joined using primary key in Dataiku to fasten the preprocess stage in-order to increase efficiency**
 
