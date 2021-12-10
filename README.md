@@ -91,5 +91,5 @@ By following the above steps in a chronological way we would eventually start to
 * Autoregressive Moving Average (ARMA)
 * Seasonal Autoregressive Integrated Moving-Average (SARIMA) and other qualifying models based on scoring criteria to be tested by leveraging meaningful insights from big data.
 
-The end goal would be to share the interesting discovery made to the board, so that data driven decisions can be in a timely fashion
+The end goal would be to share the interesting discovery made to the board, so that data driven decisions can be made in a timely fashion
 
