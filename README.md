@@ -26,7 +26,7 @@
 ### **1.) DATA UNDERSTAND & PREPROCESSING**
 
 #### The case study revolves around 4 data sets consisting of:
-#### **ORDERS :**
+#### **- ORDERS :**
 ##### 1.) *Orders (Order_id, user_id, order_number, order_dow, order_hour_of_day, days_since_prior_order)*
 ##### 2.) *Order_Products (Order_id, product_id, add_to_cart_order)*
 
