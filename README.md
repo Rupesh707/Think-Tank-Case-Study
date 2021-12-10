@@ -44,7 +44,7 @@
 
 ## RESULTS
 <p align="center">
-  <img src="assets/Kat-max.JPG">
+  <img src="assets/Kat-max - Power BI-1.jpg">
 </p>
 
 
