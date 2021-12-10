@@ -83,6 +83,3 @@ The problem at hand: Due to the global pandemic, our supply chain experiences dr
 <p align="center">
   <img src="assets/4.jpg">
 </p>
-
-
-
