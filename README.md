@@ -17,10 +17,10 @@
 ### OUR PLAN
 
 ##### * DATA UNDERSTAND & PREPROCESSING 
-##### * EXPLANATORY ANALYSIS
-##### * MODEL SELECTION
-##### * VISUALIZATION & SHARING KEY FINDINGS
-##### * RECOMMENDATION
+##### * EXPLANATORY ANALYSIS [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat_Max_Analysis.ipynb)
+##### * MODEL SELECTION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat_Max_Analysis.ipynb)
+##### * VISUALIZATION & SHARING KEY FINDINGS [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)
+##### * RECOMMENDATION [Click](https://github.com/Rupesh707/Think-Tank-Case-Study/blob/master/Kat-max.pbix)
 
 
 ### **1.) DATA UNDERSTAND & PREPROCESSING**
@@ -31,7 +31,7 @@
 ##### 2.) *Order_Products (Order_id, product_id, add_to_cart_order)*
 
 
-#### **SEGMENT & ITEAMS :**
+#### **- SEGMENT & ITEAMS :**
 ##### 3.) *Departments (Department_id, Department)*
 ##### 4.) *Products (Product_id, department_id, product_name)*
 
